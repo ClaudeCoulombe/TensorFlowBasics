@@ -150,9 +150,6 @@ for epoch in range(training_epochs):
 save_path = saver.save(sess, model_path)
 print("Model saved in file: %s", save_path)
 
-# Plot MSE and accuracy graph
-# plt.plot(mse_history, 'r')
-# plt.show()
 plt.plot(accuracy_history)
 plt.xlabel('Epoch')
 plt.ylabel('Accuracy')

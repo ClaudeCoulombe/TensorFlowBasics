@@ -157,8 +157,6 @@ y = multilayer_perceptron(x, weights, biases)
 # print("Model saved in file: %s", save_path)
 # 
 # # Plot MSE and accuracy graph
-# plt.plot(mse_history, 'r')
-# plt.show()
 # plt.plot(accuracy_history)
 # plt.show()
 # 
