@@ -1,7 +1,7 @@
 # Code from the tutorial TensorFlow Tutorial | Deep Learning Using TensorFlow | Edureka
 # Mine vs Rock
 # https://www.youtube.com/watch?v=yX8KuPZCAMo
-# With small corrections and additions by Claude COULOMBE - PhD candidate TÉLUQ / UQAM - Montréal
+# With small corrections and additions of missing parts by Claude COULOMBE - PhD candidate TÉLUQ / UQAM - Montréal
 
 import matplotlib.pyplot as plt
 import tensorflow as tf
