@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/claudecoulombe/git/tensorflow_basic_tutorial/model/model.ckpt"
+all_model_checkpoint_paths: "/Users/claudecoulombe/git/tensorflow_basic_tutorial/model/model.ckpt"
